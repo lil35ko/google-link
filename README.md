@@ -1,2 +1,2 @@
 # google-link
-[google.com](Google)
+[https://google.com](Google)
